@@ -1,7 +1,7 @@
 [
     {
         "name": "MTS Anomaly",
-        "link": "./"
+        "link": "./index"
     },
     {
         "name": "Paper List",
@@ -23,27 +23,27 @@
         "data": [
             {
                 "name": "SMD",
-                "link": "./leaderboard/criteo_x4_001.html"
-            },
-            {
-                "name": "ASD",
-                "link": "./leaderboard/avazu_x4_001.html"
+                "link": "./leaderboard/SMD.html"
             },
             {
                 "name": "SMAP",
-                "link": "./leaderboard/criteo_x1.html"
+                "link": "./leaderboard/SMAP.html"
             },
             {
                 "name": "WADI",
-                "link": "./leaderboard/avazu_x1.html"
+                "link": "./leaderboard/WADI.html"
             },
             {
-                "name": "SMAP",
-                "link": "./leaderboard/kkbox_x1.html"
+                "name": "SWAT",
+                "link": "./leaderboard/SWAT.html"
+            },
+            {
+                "name": "ASD",
+                "link": "./leaderboard/ASD.html"
             },
             {
                 "name": "MSL",
-                "link": "./leaderboard/frappe_x1.html"
+                "link": "./leaderboard/MSL.html"
             }
         ]
     },
