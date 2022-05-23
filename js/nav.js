@@ -55,7 +55,7 @@ function add_nav_ul(name, data, page_name) {
 function add_nav(page_name) {
     // load nav json data 
     // var nav_json = "https://openbenchmark.github.io/ctr-prediction/js/nav.json"
-    var nav_json = "https://github.com/JinYang88/MTSAnomaly-web/blob/main/js/nav.json"
+    var nav_json = "https://raw.githubusercontent.com/JinYang88/MTSAnomaly-web/main/js/nav.json"
     var request = new XMLHttpRequest();
     request.open("get", nav_json);
     request.send(null);
